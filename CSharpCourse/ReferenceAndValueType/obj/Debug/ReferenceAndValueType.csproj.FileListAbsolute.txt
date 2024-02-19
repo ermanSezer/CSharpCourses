@@ -1,0 +1,7 @@
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\erman\source\repos\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

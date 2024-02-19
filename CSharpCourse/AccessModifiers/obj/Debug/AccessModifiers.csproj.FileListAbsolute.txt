@@ -1,0 +1,7 @@
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\erman\source\repos\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.pdb
